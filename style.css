@@ -42,11 +42,11 @@
 }
 
 .enlace__imagen--woman{
-    background-image: url("https://static.pullandbear.net/2/static2/itxwebstandard/responsive/genderselector/woman.jpg?20230723020704");
+    background-image: url("azul1.jpg");
     
 }
 .enlace__imagen--men {
-    background-image: url("https://static.pullandbear.net/2/static2/itxwebstandard/responsive/genderselector/man.jpg?20230723020704");
+    background-image: url("tres.jpg");
 }
 .enlace__imagen--rojo{color: red;}
 
